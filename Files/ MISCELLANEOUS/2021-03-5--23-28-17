@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>AKD Capital Limited. </Script>
+    <Price>467.44</Price>
+  </Scripts>
+  <Scripts>
+    <Script>ECOPAK Limited. </Script>
+    <Price>31.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Gammon Pak. </Script>
+    <Price>12</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MACPAC Films Limited. </Script>
+    <Price>18.97</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pace (Pakistan) Ltd. </Script>
+    <Price>3.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shifa Int. Hospital Ltd. </Script>
+    <Price>197.96</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Siddiqsons Tin Plate Ltd. </Script>
+    <Price>14.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Synthetic Products Ent. Ltd. </Script>
+    <Price>38.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>TPL Properties Limited. </Script>
+    <Price>8.85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tri-Pack Films Ltd. </Script>
+    <Price>172</Price>
+  </Scripts>
+</root>

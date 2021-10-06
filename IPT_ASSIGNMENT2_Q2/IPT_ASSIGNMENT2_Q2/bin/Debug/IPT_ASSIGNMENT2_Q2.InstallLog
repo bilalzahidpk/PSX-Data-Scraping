@@ -1,0 +1,54 @@
+﻿Installing assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+Rolling back assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+Rolling back assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+Installing assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+Rolling back assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+Installing assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe
+Installing service IPTASSIGNMENTQ2...
+Service IPTASSIGNMENTQ2 has been successfully installed.
+Creating EventLog source IPTASSIGNMENTQ2 in log Application...
+Committing assembly 'D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.InstallLog
+   assemblypath = D:\IPT Assignment#2\IPT_ASSIGNMENT2_Q2\IPT_ASSIGNMENT2_Q2\bin\Debug\IPT_ASSIGNMENT2_Q2.exe

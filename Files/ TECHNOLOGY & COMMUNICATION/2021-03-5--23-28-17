@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>Avanceon Limited. </Script>
+    <Price>82.87</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hum Network Limited. </Script>
+    <Price>5.93</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Media Times Limited. </Script>
+    <Price>2.98</Price>
+  </Scripts>
+  <Scripts>
+    <Script>NetSol Technologies Ltd. </Script>
+    <Price>157.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pak Datacom Limited. </Script>
+    <Price>76</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Telecommunication Co. </Script>
+    <Price>9</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Systems Limited.(XB) </Script>
+    <Price>423.65</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Telecard Ltd. </Script>
+    <Price>14.78</Price>
+  </Scripts>
+  <Scripts>
+    <Script>TPL CORP Limited. </Script>
+    <Price>6.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>TPL Trakker Limited. </Script>
+    <Price>10.65</Price>
+  </Scripts>
+  <Scripts>
+    <Script>TRG Pakistan Ltd. </Script>
+    <Price>168.62</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Worldcall Telecom Ltd. </Script>
+    <Price>1.40</Price>
+  </Scripts>
+</root>

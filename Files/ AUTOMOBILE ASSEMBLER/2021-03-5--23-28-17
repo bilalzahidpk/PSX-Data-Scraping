@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>Al-Ghazi Tractors Limited. </Script>
+    <Price>350.48</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Atlas Honda Limited. </Script>
+    <Price>469.86</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dewan Farooque Motors Limited [ DEFAULTER SEGMENT ]</Script>
+    <Price>4.71</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghandhara Industries Ltd. </Script>
+    <Price>245.85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghandhara Nissan Ltd. </Script>
+    <Price>93</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Automobile Industries Ltd. </Script>
+    <Price>6.03</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hino Pak Motor Limited. </Script>
+    <Price>335.25</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Honda Atlas Cars (Pak) Ltd. </Script>
+    <Price>281.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Indus Motor Company Ltd. </Script>
+    <Price>1091.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Millat Tractors Limited. </Script>
+    <Price>1043.74</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pak Suzuki Motors Co Ltd. </Script>
+    <Price>253.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sazgar Engineering Works Ltd. </Script>
+    <Price>158.84</Price>
+  </Scripts>
+</root>

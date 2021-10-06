@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>Meezan Pakistan ETF </Script>
+    <Price>10.96</Price>
+  </Scripts>
+  <Scripts>
+    <Script>NBP Pakistan Growth ETF </Script>
+    <Price>11.28</Price>
+  </Scripts>
+  <Scripts>
+    <Script>NIT Pakistan Gateway  ETF. </Script>
+    <Price>11.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>UBL Pakistan Enterprise ETF. </Script>
+    <Price>13.90</Price>
+  </Scripts>
+</root>

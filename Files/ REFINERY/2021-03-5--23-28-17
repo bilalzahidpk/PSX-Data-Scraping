@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>Attock Refinery Limited. </Script>
+    <Price>218.56</Price>
+  </Scripts>
+  <Scripts>
+    <Script>BYCO Petroleum Pak Ltd. </Script>
+    <Price>9.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>National Refinary Ltd. </Script>
+    <Price>562.38</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Refinery Ltd. </Script>
+    <Price>22.74</Price>
+  </Scripts>
+</root>

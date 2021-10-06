@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>B.R.R. Guardian Modaraba. </Script>
+    <Price>10.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Al-Noor Mod. </Script>
+    <Price>3.12</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Elite Capital Mod. </Script>
+    <Price>3.33</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Habib Mod. </Script>
+    <Price>9.21</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Pak Mod. </Script>
+    <Price>2.29</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Paramount Mod. </Script>
+    <Price>4.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Prudential Mod. </Script>
+    <Price>1.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First UDL Mod. </Script>
+    <Price>8.16</Price>
+  </Scripts>
+  <Scripts>
+    <Script>KASB Modaraba. </Script>
+    <Price>2.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Modarba Al-Mali. </Script>
+    <Price>4.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Orix Modaraba. </Script>
+    <Price>16.44</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Unicap Modaraba. </Script>
+    <Price>2.55</Price>
+  </Scripts>
+</root>

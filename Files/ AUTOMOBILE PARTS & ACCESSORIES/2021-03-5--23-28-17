@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>Agriautos Industries Co. Ltd. </Script>
+    <Price>243.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Atlas Battery Ltd. </Script>
+    <Price>249.36</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Baluchistan Wheels Ltd. </Script>
+    <Price>74.69</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Exide Pakistan Ltd. </Script>
+    <Price>331.13</Price>
+  </Scripts>
+  <Scripts>
+    <Script>General Tyre &amp;amp; Rubber Co. </Script>
+    <Price>81.55</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Loads Limited. </Script>
+    <Price>13.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Panther Tyres Limited </Script>
+    <Price>63.94</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Thal Limited. </Script>
+    <Price>406.85</Price>
+  </Scripts>
+</root>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Scripts>
+    <Script>Agritech Limited </Script>
+    <Price>3.95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bawany Air Products Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>16.51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Berger Paints Pakistan Ltd. </Script>
+    <Price>82.11</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bifo Industries Ltd. </Script>
+    <Price>122.74</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Colgate Palmolive (Pak) Ltd. </Script>
+    <Price>2800</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Descon Oxychem Ltd. </Script>
+    <Price>24.92</Price>
+  </Scripts>
+  <Scripts>
+    <Script>DYNEA Pak. </Script>
+    <Price>218.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp;amp; Chemical Pref.Shares(XD) </Script>
+    <Price>11</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp;amp; Chemicals Ltd.(XD) </Script>
+    <Price>49.33</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Global Holdings Limited. </Script>
+    <Price>38.68</Price>
+  </Scripts>
+  <Scripts>
+    <Script>ICI Pakistan Limited. </Script>
+    <Price>858.31</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ittehad Chemical Ltd. </Script>
+    <Price>32</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Lotte Chemical Pakistan Ltd.(XD) </Script>
+    <Price>13.83</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Industrial Chemical Ltd.(XD) </Script>
+    <Price>147.39</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Resins Limited. </Script>
+    <Price>12.72</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Oxygen Limited.(XB) </Script>
+    <Price>154.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan PVC [ DEFAULTER SEGMENT ]</Script>
+    <Price>4.35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Chemicals. </Script>
+    <Price>360</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Peroxide Limited </Script>
+    <Price>26.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Wah Noble Chemicals Ltd. </Script>
+    <Price>207.65</Price>
+  </Scripts>
+</root>
